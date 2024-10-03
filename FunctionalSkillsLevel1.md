@@ -4,14 +4,14 @@
 
 ## Section One - **Number**
 
-- [ ] Numbers
-- [ ] The Number Line
-- [ ] Addition & Subtraction
-- [ ] Multiplication & Division
-- [ ] Checking Your Answer
-- [ ] Multiplying & Dividing by 10, 100, 1000 etc
-- [ ] Square Numbers
-- [ ] Order of Operations
+- [x] Numbers
+- [x] The Number Line
+- [x] Addition & Subtraction
+- [x] Multiplication & Division
+- [x] Checking Your Answer
+- [x] Multiplying & Dividing by 10, 100, 1000 etc
+- [x] Square Numbers
+- [x] Order of Operations
 - [ ] Fractions
 - [ ] Decimals
 - [ ] Rounding
