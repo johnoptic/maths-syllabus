@@ -12,13 +12,13 @@
 - [x] Multiplying & Dividing by 10, 100, 1000 etc
 - [x] Square Numbers
 - [x] Order of Operations
-- [ ] Fractions
-- [ ] Decimals
-- [ ] Rounding
-- [ ] Percentages
-- [ ] Fractions, Decimals and Percentages
-- [ ] Ratios
-- [ ] Formulas in Words
+- [x] Fractions
+- [x] Decimals
+- [x] Rounding
+- [x] Percentages
+- [x] Fractions, Decimals and Percentages
+- [x] Ratios
+- [x] Formulas in Words
 
 ---
 
