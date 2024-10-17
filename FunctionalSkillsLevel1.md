@@ -24,18 +24,18 @@
 
 ## Section Two - **Measures, Shape and Space**
 
-- [ ] Money
-- [ ] Length
-- [ ] Weight
-- [ ] Capacity
-- [ ] Time
-- [ ] Length & Perimeter
-- [ ] Area
-- [ ] Volume
-- [ ] 2d Shapes
-- [ ] Nets, Plans & Elevations
-- [ ] Angles & Bearings
-- [ ] Maps & Map Scales
+- [x] Money
+- [x] Length
+- [x] Weight
+- [x] Capacity
+- [x] Time
+- [x] Length & Perimeter
+- [x] Area
+- [x] Volume
+- [x] 2d Shapes
+- [x] Nets, Plans & Elevations
+- [x] Angles & Bearings
+- [x] Maps & Map Scales
 
 ---
 
