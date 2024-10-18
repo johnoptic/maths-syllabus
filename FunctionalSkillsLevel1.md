@@ -41,8 +41,8 @@
 
 ## Section Three - **Handling Data**
 
-- [ ] Tables
-- [ ] Charts & Graphs
+- [x] Tables
+- [x] Charts & Graphs
 - [ ] Pie Charts
 - [ ] Drawing Charts, Graphs and Pie Charts
 - [ ] Grouped Data
